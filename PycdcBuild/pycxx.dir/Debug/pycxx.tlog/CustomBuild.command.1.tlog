@@ -1,0 +1,10 @@
+^C:\USERS\VICTO\DESKTOP\PYCDC-MASTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Victo/Desktop/pycdc-master -BC:/Users/Victo/Desktop/pycdc-master --check-stamp-file C:/Users/Victo/Desktop/pycdc-master/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

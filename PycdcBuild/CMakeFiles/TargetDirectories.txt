@@ -1,0 +1,7 @@
+C:/Users/Victo/Desktop/pycdc-master/CMakeFiles/pycxx.dir
+C:/Users/Victo/Desktop/pycdc-master/CMakeFiles/pycdas.dir
+C:/Users/Victo/Desktop/pycdc-master/CMakeFiles/pycdc.dir
+C:/Users/Victo/Desktop/pycdc-master/CMakeFiles/check.dir
+C:/Users/Victo/Desktop/pycdc-master/CMakeFiles/INSTALL.dir
+C:/Users/Victo/Desktop/pycdc-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/Victo/Desktop/pycdc-master/CMakeFiles/ZERO_CHECK.dir
